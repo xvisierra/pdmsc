@@ -3,7 +3,7 @@
 This C program implements a simple personal diary management system that allows users to add, view, edit and delete dated diary entries.
 
 ## 📸 Screenshots
-!Main Menu
+!Main Menu(ss1.png)
 !Add Record
 !View Record
 
