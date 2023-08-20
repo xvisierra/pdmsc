@@ -4,8 +4,8 @@ This C program implements a simple personal diary management system that allows 
 
 ## 📸 Screenshots
 ![Main Menu](ss1.png)
-!Add Record
-!View Record
+![Main Menu](ss1.png)
+![Main Menu](ss1.png)
 
 ## 🌟 Features
 - User-friendly text menu for navigation
