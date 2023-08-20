@@ -6,9 +6,9 @@ This C program implements a simple personal diary management system that allows 
 - Main Menu
 ![Main Menu](ss1.png)
 - Add record
-![Main Menu](ss1.png)
+![Main Menu](ss2.png)
 - View Record
-![Main Menu](ss1.png)
+![Main Menu](ss3.png)
 
 ## 🌟 Features
 - User-friendly text menu for navigation
